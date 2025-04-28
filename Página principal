@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loja MT</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo à Loja MT</h1>
+    </header>
+    <section>
+        <p>Produtos exclusivos para Mato Grosso. Compre e finalize via WhatsApp!</p>
+        <a href="https://wa.me/65984618970" class="botao">Comprar via WhatsApp</a>
+    </section>
+    <footer>
+        <p>&copy; 2025 Loja MT - Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
